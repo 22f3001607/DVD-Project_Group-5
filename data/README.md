@@ -17,7 +17,7 @@ To run **any notebook** in `notebooks/tracks/` or `notebooks/visualizations/`, o
 | `marketing_qualified_leads_dataset.csv` | Notebook 05, Dashboard page 5 | <1 MB |
 | `closed_deals_dataset.csv` | Notebook 05, Dashboard page 5 | <1 MB |
 
-The 9 raw Olist CSVs (`orders_dataset.csv`, `order_payments_dataset.csv`, `customers_dataset.csv`, `sellers_dataset.csv`, `geolocation_dataset.csv`, etc.) and each track's processed intermediate outputs (`orders_master.csv`, `sellers_master_enhanced.csv`, `reviews_clean.csv`, and so on) are also in the same Drive folder, organized into `raw/` and `processed/` subfolders, for anyone who wants to re-run the track notebooks from scratch rather than starting from `analysis_master.csv`.
+The 9 raw Olist CSVs (`orders_dataset.csv`, `order_payments_dataset.csv`, `customers_dataset.csv`, `sellers_dataset.csv`, `geolocation_dataset.csv`, etc.) and each track's processed intermediate outputs (`orders_master.csv`, `sellers_master_enhanced.csv`, `reviews_clean.csv`, and so on) are also in the same Drive folder, organized into `Raw Datasets/` and `Derived Datasets/` subfolders, for anyone who wants to re run the track notebooks from scratch rather than starting from `analysis_master.csv`.
 
 ## Important: never open a raw CSV in Excel
 
