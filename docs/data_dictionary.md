@@ -1,6 +1,6 @@
 # Data Dictionary
 
-Covers every shared output file produced across Tracks A–E, including each track's deeper follow-up pass, **and now the final `analysis_master.csv` cross-track join, which has been built and verified against this dictionary.**
+Covers every shared output file produced across Categories A to E, including each track's deeper follow-up pass, **and now the final `analysis_master.csv` cross-track join, which has been built and verified against this dictionary.**
 
 ---
 
