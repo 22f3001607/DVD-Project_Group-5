@@ -1,8 +1,6 @@
-# Data Dictionary — Processed Files (FINAL — updated after analysis_master.csv build)
+# Data Dictionary
 
-Covers every shared output file produced across Tracks A–E, including each track's deeper follow-up pass, **and now the final `analysis_master.csv` cross-track join, which has been built and verified against this dictionary.** See each track's `Track_[X]_Findings_Report.md` for the reasoning behind each decision noted here.
-
-**What changed in this update:** Section 7 (`analysis_master.csv`) is no longer "planned" — it exists, is verified (99,441 rows × 69 columns, one row per `order_id`, all summary numbers cross-checked against every track's reported findings and matched exactly), and its actual schema is documented below instead of the original join plan. One naming/semantics nuance was caught during verification and is flagged prominently (see §7.1) since it's an easy mistake to make when charting.
+Covers every shared output file produced across Tracks A–E, including each track's deeper follow-up pass, **and now the final `analysis_master.csv` cross-track join, which has been built and verified against this dictionary.**
 
 ---
 
