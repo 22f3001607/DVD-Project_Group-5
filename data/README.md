@@ -2,7 +2,7 @@
 
 The datasets are not committed to this repository — `analysis_master.csv` alone is ~92MB, and the full raw+processed set runs well past what's practical to version-control directly. All files are hosted here instead:
 
-**Google Drive folder:** [insert link here]
+**Google Drive folder:** [Datasets](https://drive.google.com/drive/folders/1ALV7ElJbM7NVjogPuGVL0c40f8zfSrrZ)
 
 ## What to download and where it goes
 
