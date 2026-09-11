@@ -27,17 +27,15 @@ An analysis of Olist's Brazilian e-commerce marketplace, identifying what drives
 
 ## The core story, in brief
 
-1. **The mechanism and its paradox** — delivery delay predicts review score, and transport time (carrier-side, mostly outside a seller's control) drives the damage to any individual order's rating, while a seller's own processing speed better identifies which sellers are reliably good over time.
-2. **Growth vs. quality is measurable** — delivery quality dipped at real points as the marketplace scaled, while acquisition efficiency improved over the same period.
-3. **A speculative layer** — smaller, honestly-caveated findings not previously documented for this dataset (no holiday-season leniency, an early-delivery "ceiling effect," and more) — see the technical report, Section 5.4.
-
-Full detail: [`report/technical_report.pdf`](report/technical_report.pdf).
+1. **The mechanism and its paradox** : delivery delay predicts review score, and transport time (carrier-side, mostly outside a seller's control) drives the damage to any individual order's rating, while a seller's own processing speed better identifies which sellers are reliably good over time.
+2. **Growth vs. quality is measurable** : delivery quality dipped at real points as the marketplace scaled, while acquisition efficiency improved over the same period.
+3. **A speculative layer** : smaller, honestly-caveated findings not previously documented for this dataset (no holiday-season leniency, an early-delivery "ceiling effect," and more)
 
 ## Setup reproducing this work
 
 **1. Clone this repository**
 ```bash
-git clone [https://github.com/YOUR-ORG/YOUR-REPO](https://github.com/22f3001607/DVD-Project_Group-5).git
+git clone https://github.com/22f3001607/DVD-Project_Group-5.git
 cd DVD-Project_Group-5
 ```
 
