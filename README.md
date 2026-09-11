@@ -21,6 +21,8 @@ An analysis of Olist's Brazilian e-commerce marketplace, identifying what drives
 | `notebooks/visualizations/` | 6 notebooks building every chart in the final report, one per theme |
 | `dashboard/` | Interactive Streamlit dashboard source (6 pages) |
 | `docs/` | Data dictionary |
+| `report/` | Technical report |
+| `presentation/` | Final presentation slides |
 | `data/` | **Not the data itself**: see `data/README.md` for the download link and setup |
 
 ## The core story, in brief
