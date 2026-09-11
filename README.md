@@ -1,12 +1,14 @@
 # A Visual Study of E-Commerce Orders, Delivery & Customer Satisfaction
 
-Data Visualization Design (CS4001) group project an analysis of Olist's Brazilian e-commerce marketplace, identifying what drives customer satisfaction and where the marketplace is at risk, so leadership can grow without breaking the customer experience.
+An analysis of Olist's Brazilian e-commerce marketplace, identifying what drives customer satisfaction and where the marketplace is at risk, so leadership can grow without breaking the customer experience.
 
-Smit Pareshbhai Sabalpara - 22F3001607
-Harsh Patel - 22F1001058
-Naman Goel - 22F2001226
-Sunny Kumar Gupta - 23F1002609
-Renee Keerthana Paturi - 22F2001379
+| Name | Roll No |
+|---|---|
+| Smit Pareshbhai Sabalpara | 22F3001607 |
+| Harsh Patel | 22F1001058 |
+| Naman Goel | 22F2001226 |
+| Sunny Kumar Gupta | 23F1002609 |
+| Renee Keerthana Paturi | 22F2001379 |
 
 
 ---
@@ -18,7 +20,7 @@ Renee Keerthana Paturi - 22F2001379
 | `notebooks/tracks/` | The 5 original per-category analysis notebooks (Payments, Products, Sellers/Logistics, Customers/Reviews, Marketing Funnel) |
 | `notebooks/visualizations/` | 6 notebooks building every chart in the final report, one per theme |
 | `dashboard/` | Interactive Streamlit dashboard source (6 pages) |
-| `docs/` | Data dictionary, business goal & analysis questions, concept note, visualization plan |
+| `docs/` | Data dictionary, business goal & analysis questions, concept note |
 | `report/` | Technical report (LaTeX source + compiled PDF) |
 | `presentation/` | Final presentation slides |
 | `data/` | **Not the data itself** — see `data/README.md` for the download link and setup |
