@@ -20,9 +20,7 @@ An analysis of Olist's Brazilian e-commerce marketplace, identifying what drives
 | `notebooks/tracks/` | The 5 original per-category analysis notebooks (Payments, Products, Sellers/Logistics, Customers/Reviews, Marketing Funnel) |
 | `notebooks/visualizations/` | 6 notebooks building every chart in the final report, one per theme |
 | `dashboard/` | Interactive Streamlit dashboard source (6 pages) |
-| `docs/` | Data dictionary, Business goal & analysis questions, Concept note, Mid week EDA summary |
-| `report/` | Technical report |
-| `presentation/` | Final presentation slides |
+| `docs/` | Data dictionary |
 | `data/` | **Not the data itself**: see `data/README.md` for the download link and setup |
 
 ## The core story, in brief
