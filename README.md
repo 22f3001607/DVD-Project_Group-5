@@ -37,8 +37,8 @@ Full detail: [`report/technical_report.pdf`](report/technical_report.pdf).
 
 **1. Clone this repository**
 ```bash
-git clone https://github.com/YOUR-ORG/YOUR-REPO.git
-cd YOUR-REPO
+git clone [https://github.com/YOUR-ORG/YOUR-REPO](https://github.com/22f3001607/DVD-Project_Group-5).git
+cd DVD-Project_Group-5
 ```
 
 **2. Get the data**
@@ -51,7 +51,7 @@ pip install jupyter pandas numpy matplotlib seaborn adjustText
 ```
 
 **4. Run the notebooks**
-Open any notebook in `notebooks/tracks/` or `notebooks/visualizations/` in Jupyter each expects the relevant CSV(s) in the same folder it's run from (see the `DATA_DIR` variable near the top of each notebook).
+Open any notebook in `notebooks/tracks/` or `notebooks/visualizations/` in Jupyter each expects the relevant CSV(s) in the same folder it's run from.
 
 **5. Run the dashboard**
 ```bash
