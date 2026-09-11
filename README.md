@@ -1,6 +1,6 @@
 # A Visual Study of E-Commerce Orders, Delivery & Customer Satisfaction
 
-Data Visualization Design (CS4001) group project — an analysis of Olist's Brazilian e-commerce marketplace, identifying what drives customer satisfaction and where the marketplace is at risk, so leadership can grow without breaking the customer experience.
+Data Visualization Design (CS4001) group project an analysis of Olist's Brazilian e-commerce marketplace, identifying what drives customer satisfaction and where the marketplace is at risk, so leadership can grow without breaking the customer experience.
 
 **[Team member names here]**
 
@@ -26,7 +26,7 @@ Data Visualization Design (CS4001) group project — an analysis of Olist's Braz
 
 Full detail: [`report/technical_report.pdf`](report/technical_report.pdf).
 
-## Setup — reproducing this work
+## Setup reproducing this work
 
 **1. Clone this repository**
 ```bash
@@ -35,7 +35,7 @@ cd YOUR-REPO
 ```
 
 **2. Get the data**
-Data files are hosted separately (too large for git) — see [`data/README.md`](data/README.md) for the download link and exactly where each file goes.
+Data files are hosted separately (too large for git) see [`data/README.md`](data/README.md) for the download link and exactly where each file goes.
 
 **3. Install dependencies**
 ```bash
@@ -44,7 +44,7 @@ pip install jupyter pandas numpy matplotlib seaborn adjustText
 ```
 
 **4. Run the notebooks**
-Open any notebook in `notebooks/tracks/` or `notebooks/visualizations/` in Jupyter — each expects the relevant CSV(s) in the same folder it's run from (see the `DATA_DIR` variable near the top of each notebook).
+Open any notebook in `notebooks/tracks/` or `notebooks/visualizations/` in Jupyter each expects the relevant CSV(s) in the same folder it's run from (see the `DATA_DIR` variable near the top of each notebook).
 
 **5. Run the dashboard**
 ```bash
