@@ -2,7 +2,12 @@
 
 Data Visualization Design (CS4001) group project an analysis of Olist's Brazilian e-commerce marketplace, identifying what drives customer satisfaction and where the marketplace is at risk, so leadership can grow without breaking the customer experience.
 
-**[Team member names here]**
+Smit Pareshbhai Sabalpara - 22F3001607
+Harsh Patel - 22F1001058
+Naman Goel - 22F2001226
+Sunny Kumar Gupta - 23F1002609
+Renee Keerthana Paturi - 22F2001379
+
 
 ---
 
